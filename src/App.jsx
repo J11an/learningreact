@@ -1,8 +1,8 @@
 import React,{Component,Fragment} from 'react'
-import CardList from '../CardList'
-import Searchbar from '../Searchbar'
+import CardList from './CardList'
+import Searchbar from './Searchbar'
 import './App.css'
-import Scroll from '../Scroll'
+import Scroll from './Scroll'
 
 
 class App extends Component {
